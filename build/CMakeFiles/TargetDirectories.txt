@@ -1,0 +1,3 @@
+/home/joao/Documentos/ComputerVisionProjects/StereoVision/stereoVisionCalibration/build/CMakeFiles/edit_cache.dir
+/home/joao/Documentos/ComputerVisionProjects/StereoVision/stereoVisionCalibration/build/CMakeFiles/rebuild_cache.dir
+/home/joao/Documentos/ComputerVisionProjects/StereoVision/stereoVisionCalibration/build/CMakeFiles/out.dir
